@@ -53,9 +53,9 @@ MIT License
 
 Created by Prateek Dangi
 
-##Notes
+## Notes
 
-###Code Improvements Suggestions
+### Code Improvements Suggestions
 - Add error handling in core.py for socket creation and binding.
 - Validate user inputs in sniffer.py CLI arguments.
 - Optimize protocol decoding by caching or limiting depth to avoid infinite loops.
